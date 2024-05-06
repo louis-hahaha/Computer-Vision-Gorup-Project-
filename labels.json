@@ -1,4 +1,110 @@
-{
-    "filename": "filename.jpg",
-    "people": "1"
-}
+[
+    {
+        "filename": "0.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "60.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "120.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "180.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "240.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "300.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "360.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "420.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "480.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "540.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "600.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "660.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "720.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "780.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "840.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "900.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "960.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "1020.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "1080.jpg",
+        "people": "1"
+    },
+    {
+        "filename": "1140.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "1200.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "1260.jpg",
+        "people": "0"
+    },
+    {
+        "filename": "1320.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "1380.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "1440.jpg",
+        "people": "2"
+    },
+    {
+        "filename": "1500.jpg",
+        "people": "4"
+    },
+    {
+        "filename": "1560.jpg",
+        "people": "2"
+    }
+]
